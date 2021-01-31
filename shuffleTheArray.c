@@ -1,3 +1,7 @@
+// Source : https://leetcode.com/problems/shuffle-the-array/
+// Author : Vinícius Brum
+// Date   : 30-01-2021
+
 #include <stdio.h>
 #include <stdlib.h>
 
